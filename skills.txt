@@ -8,7 +8,7 @@
 8. Removing and reading logs from an external server.
 9. Sniffing http web traffic via Charles and Fiddler.
 10. Dev Tools of web browsers (Google Chrome, FireFox).
-11. VPN. (How it works, why you need it, how to use it, tool options)
+11. VPN (How it works, why you need it, how to use it, tool options).
 12. Mobile testing.
 13. Feature iOS, Android, guidelines.
 14. Building iOS applications on XCode.
@@ -24,4 +24,4 @@
 24. Non-relational database Redis (installation, configuration and use).
 25. Load testing in Jmeter.
 26. Scrum development methodology.
-27.Python. (Learning the basics. Creating a client-server application)
+27. Python. (Learning the basics. Creating a client-server application).
